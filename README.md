@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saber Basha S</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Mern Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zero7zero5&label=Profile%20views&color=0e75b6&style=flat" alt="zero7zero5" /> </p>
 
-- 💬 Ask me about **Java, JavaScript, React**
+- 💬 Ask me about **Java, JavaScript, React, Data Structure and Algorithm**
 
 - 📫 How to reach me **saberbasha752002@gmail.com**
 
