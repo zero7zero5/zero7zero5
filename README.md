@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Saber Basha, A passionate Full Stack developer</div>  
+### <div align="center">I'm Saber Basha, A passionate Full Stack and React Native developer</div>  
   
 
 - 🌱 I’m currently learning React Native.  
