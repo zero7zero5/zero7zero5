@@ -5,10 +5,10 @@
 ### <div align="center">I'm Saber Basha, A passionate Full Stack and React Native developer</div>  
   
 
-- 🌱 I’m currently learning React Native.  
+- 🌱 I’m currently learning Android Dev.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and Android related technologies  
   
 
 - 📫 How to reach me saberbasha752002@gmail.com  
